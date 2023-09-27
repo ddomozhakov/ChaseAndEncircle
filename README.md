@@ -8,7 +8,7 @@ cd src
 
 mkdir target
 
-mkdir Game/lib/
+mkdir Game/lib
 
 curl https://repo1.maven.org/maven2/com/beust/jcommander/1.78/jcommander-1.78.jar -o Game/lib/jcommander-1.78.jar
 
