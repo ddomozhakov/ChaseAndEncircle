@@ -10,7 +10,7 @@ sh install.sh
 
 *** Usage ***
 
-java -jar src/game.jar --enemiesCount=10 --wallsCount=10 --size=30 --profile=production
+java -jar src/game.jar --enemiesCount=5 --wallsCount=30 --size=15 --profile=production
 
 *** Deletion ***
 
