@@ -20,5 +20,5 @@ rm game.jar
 
 *** Requirements ***
 
-Java 1.8, Maven
+Java 1.8, Maven, curl
 
